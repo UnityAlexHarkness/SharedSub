@@ -30,12 +30,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-    "com.unity.shared": {
-      "version": "file:Shared",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.unity.test-framework": {
       "version": "1.1.14",
       "depth": 0,
